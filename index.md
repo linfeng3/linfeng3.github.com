@@ -1,5 +1,5 @@
 ---
 layout: post
-title: akaedu
+title: But_Bueatiful
 ---
 ##My first page
